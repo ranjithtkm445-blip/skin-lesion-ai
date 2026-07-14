@@ -237,6 +237,7 @@
 
   let currentClass = null;
   let sampleData = null;
+  let currentQA = null;
 
   // Load sample data
   fetch('sample_data.json')
@@ -339,6 +340,8 @@
 
     document.getElementById('explanation-text').textContent = data.explanation || '— Run a live analysis to get clinical explanation —';
 
+    currentQA = data.qa || null;
+
     const qb = document.getElementById('quick-btns');
     qb.innerHTML = '';
     QUICK_QUESTIONS.forEach(q => {
@@ -369,6 +372,14 @@
     document.getElementById('send-btn').disabled = true;
 
     appendMsg(question, 'user');
+
+    // Use pre-loaded JSON answer if available
+    if (currentQA && currentQA[question]) {
+      appendMsg(currentQA[question], 'ai');
+      document.getElementById('send-btn').disabled = false;
+      return;
+    }
+
     const typing = document.createElement('div');
     typing.className = 'msg ai';
     typing.innerHTML = '<div class="spinner"></div>';
