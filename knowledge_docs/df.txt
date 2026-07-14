@@ -1,0 +1,73 @@
+# Dermatofibroma (df)
+Source: DermNet NZ (dermnetnz.org)
+
+
+## Source: https://dermnetnz.org/topics/dermatofibroma
+
+Author: Dr Amanda Oakley, Dermatologist, Hamilton, New Zealand, 1997. Updated January 2016. Revised September 2020
+
+Introduction Demographics Causes Clinical features Complications Diagnosis Treatment
+
+A dermatofibroma is a common benign fibrous nodule usually found on the skin of the lower legs.
+
+A dermatofibroma is also called a cutaneous fibrous histiocytoma.
+
+Dermatofibromas are mostly seen in adults. People of every ethnicity can develop dermatofibromas. Ordinary dermatofibromas are more common in women than in men, although some histologic variants are more commonly identified in males.
+
+It is not clear if dermatofibroma is a reactive process or a true neoplasm. The lesions are composed of proliferating fibroblasts. Histiocytes may also be involved.
+
+They are sometimes attributed to minor trauma including insect bites, injections, or a rose thorn injury, but not consistently. Multiple dermatofibromas can develop in patients with altered immunity such as HIV , immunosuppression , or autoimmune conditions.
+
+What are the clinical features of dermatofibroma?
+
+A dermatofibroma usually presents as a solitary firm papule or nodule on a limb.
+
+A dermatofibroma can occur anywhere on the skin.
+
+Dermatofibroma size varies from 0.5–1.5 cm diameter; most lesions are 7–10 mm diameter.
+
+A dermatofibroma is tethered to the skin surface and mobile over subcutaneous tissue.
+
+The overlying skin dimples on pinching the lesion – the dimple or pinch sign.
+
+Colour may be pink to light brown in white skin, and dark brown to black in dark skin; some appear paler in the centre.
+
+Dermatofibromas do not usually cause symptoms, but they are sometimes painful, tender, or itchy.
+
+Clinical variants include giant, eruptive, and multiple forms.
+
+What are the complications of dermatofibroma?
+
+Because dermatofibromas are often raised lesions, they may be traumatised, for example by a razor.
+
+Occasionally dozens may erupt within a few months, usually in the setting of immunosuppression.
+
+Dermatofibroma does not give rise to cancer. However, occasionally, it may be mistaken for dermatofibrosarcoma protuberans or desmoplastic melanoma .
+
+Dermatofibroma is usually easy to diagnose clinically, supported by dermoscopy . The most common dermoscopic pattern is a central white area surrounded by a faint pigment network. However different patterns may be seen in skin of colour.
+
+Diagnostic excision or skin biopsy is undertaken if there is an atypical feature such as recent enlargement, ulceration , or asymmetrical structures and colours on dermoscopy.
+
+The pathology of dermatofibroma shows whirling fascicles of spindle cell proliferation with excessive collagen deposition in the dermis. There are many pathological variants including:
+
+In case of doubt, immunohistochemical staining is used to confirm the diagnosis.
+
+What is the treatment for dermatofibroma?
+
+A dermatofibroma is harmless and seldom causes any symptoms. Usually, only reassurance is needed. If it is nuisance or causing concern, the lesion can be removed surgically. Recurrence is common as the lesion often extends beyond the clinical margin.
+
+Cryotherapy , shave biopsy and laser treatments are rarely completely successful.
+
+Beatrous SV, Riahi RR, Grisoli SB, Cohen PR. Associated conditions in patients with multiple dermatofibromas: case reports and literature review. Dermatol Online J . 2017;23(9):13030/qt8zv852d8. PubMed
+
+Alves JV, Matos DM, Barreiros HF, Bártolo EA. Variants of dermatofibroma--a histopathological study. An Bras Dermatol. 2014;89(3):472–7. doi:10.1590/abd1806-4841.20142629. PubMed
+
+Kelati A, Aqil N, Baybay H, Gallouj S, Mernissi FZ. Beyond classic dermoscopic patterns of dermatofibromas: a prospective research study. J Med Case Rep . 2017;11(1):266. doi:10.1186/s13256-017-1429-6. PubMed
+
+Juliandri J, Wang XY, Liu ZJ, Zhang JW, Xu Y. Dermoscopic patterns of dermatofibroma in 72 Chinese patients. Chin Med J (Engl). 2019;132(17):2121–2. doi:10.1097/CM9.0000000000000406. PubMed
+
+Calonje E. Soft-tissue tumours and tumour-like conditions. In: Griffiths C, Barker J, Bleiker T, Chalmers R, Creamer D (eds). Rook's Textbook of Dermatology [4 volumes], 9th edn, Wiley Blackwell, 2016:137.19–22.
+
+Dermal and subcutaneous tumours – common skin lesions course
+
+Dermatofibroma — British Association of Dermatologists

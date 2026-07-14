@@ -1,0 +1,365 @@
+# Melanoma (mel)
+Source: DermNet NZ (dermnetnz.org)
+
+
+## Source: https://dermnetnz.org/topics/melanoma
+
+Author: Dr Nicole A. Seebacher, Department of Oncology, University of Oxford, United Kingdom, U.K. (2022) Previous contributors: Dr Amanda Oakley, Dermatologist (1997) Reviewing dermatologist: Dr Ian Coulson
+
+Introduction Demographics Causes Classification Clinical features Variation in skin types Complications Diagnosis Differential diagnoses Treatment Lymph node removal Follow-up Prevention Outcome
+
+Melanoma , also referred to as malignant melanoma, is a potentially very serious skin cancer in which there is an uncontrolled growth of melanocytes ( pigment cells).
+
+Normal melanocytes are found in the basal layer of the epidermis (outer layer of skin). Melanocytes produce a protein called melanin , which protects skin cells by absorbing ultraviolet (UV) radiation .
+
+Non-cancerous growth of melanocytes results in moles (benign melanocytic naevi) and freckles (ephelides and lentigines ). In contrast, the cancerous growth of melanocytes results in melanoma. Melanoma is described as:
+
+In situ , if a tumour is confined to the epidermis
+
+Invasive , if a tumour has spread into the dermis
+
+Metastatic , if a tumour has spread to other tissues.
+
+Management of melanoma is rapidly evolving. For up-to-date recommendations for the diagnosis and management of melanoma, refer to local guidelines such as the Australian Cancer Council clinical practice guidelines .
+
+Superficial spreading malignant melanoma - irregular border, variable pigmentation , and areas of clinical regression
+
+Superficial spreading malignant melanoma - an enlarging pigmented lesion with variable pigmentation, irregular edge, and asymmetry
+
+Acral lentiginous malignant melanoma - irregular edge, with variable pigmentation, asymmetry and areas of regression on the heel
+
+Nodular malignant melanoma in a vertical growth phase - rapidly enlarging scaly pigmented nodule
+
+Irregular pigmented longitudinal bands in melanoma of the nail unit
+
+Amelanotic melanoma arising within pigmented melanoma
+
+Amelanotic subungal melanoma - a red lesion arising from the nail fold that has produced destruction of the nail plate
+
+Multiple blue nodules of cutaneous metastatic malignant melanoma
+
+A superficial malignant melanoma - irregular and notched margin, variable and irregular pigmentation in an itchy and enlarging pigmented lesion
+
+For more images, please see links at the bottom of the page.
+
+Australia and New Zealand have the highest reported incidence and mortality of melanoma globally. About 1 in 15-18 white-skinned Australians and New Zealanders are expected to develop melanoma in their lifetime. Melanoma is the third most common cancer in Australia and New Zealand.
+
+In 2019, there were 2,727 melanoma registrations in New Zealand. There were 362 deaths from melanoma in 2016.
+
+Melanoma can occur in adults of any age but is very rare in children. According to the Australian Institute of Health and Welfare, in 2021:
+
+7.9% of people diagnosed with melanoma were aged under 40 years
+
+The mean age for melanoma diagnosis is 65.7 years among men and 62.4 years among women. Melanoma is the most common cancer diagnosed in young Australians aged 15–29 years, accounting for 15% of all cancers in this age group.
+
+The main risk factors for developing the more common type of melanoma (eg, superficial spreading melanoma ) include:
+
+Previous invasive melanoma or melanoma in situ
+
+Previous basal cell or squamous cell carcinoma
+
+Multiple (>5) atypical naevi (large or histologically dysplastic moles)
+
+A strong family history of melanoma with two or more first-degree relatives affected
+
+Weakened immune system or cancer-prone syndromes.
+
+These risk factors are not as relevant to rarer types of melanoma.
+
+Although the presence of a large number of common nevi is a strong risk factor for cutaneous melanoma, the majority of melanomas arise de novo. A 2017 meta-analysis of 38 studies including over 20,000 melanomas found that only 29 percent were nevus -associated, with the rest arising de novo.
+
+Melanoma is thought to begin as an uncontrolled proliferation of melanin-producing cells (melanocytic stem cells) that have undergone a genetic transformation.
+
+The cause of these cell mutations can be acquired or inherited.
+
+Acquired 'sporadic' mutations are the most common cause of cancer. They occur from damage to a cell during a person's life. The most common cause of melanoma is overexposure to UV radiation, eg, sun exposure, sunbed use.
+
+Germline 'inherited' mutations are passed down from the parent. Inherited ( familial ) melanoma is far less common (<10%). CDKN2A (also called p16INK4A or MTS1) is the gene primarily linked in up to 20–40% of familial melanomas. However, in recent years, a growing number of other genes have been implicated, including CDK4, MC1R, MITF, TERT, ACD, BAP1, POT1, and TERF2IP.
+
+Cutaneous melanoma can arise from otherwise normal-appearing skin (in about 75% of melanomas) or from within a pre-existing mole or freckle, which starts to grow larger and change in appearance. Precursor lesions include:
+
+Atypical or dysplastic naevus (unusual-looking mole)
+
+Atypical lentiginous junctional naevus (flat naevus in heavily sun-damaged skin) or atypical solar lentigo
+
+Large or giant-sized congenital melanocytic naevus (brown birthmark).
+
+Melanomas have two growth phases, radial and vertical. Most melanomas arise as superficial tumours confined to the epidermis (ie, they have a horizontal growth phase; in situ ). These generally grow slowly, but at any time, further genetic changes may cause the tumour to progress to the vertical growth phase, in which the malignant cells breach the basement membrane , invading deeper tissues, resulting in invasive melanoma.
+
+Once the melanoma cells have reached the dermis, they may spread to other tissues via the lymphatic system to the local lymph nodes or via the bloodstream to other organs such as the lungs or brain. This is known as metastatic disease or secondary spread. The chance of this happening mainly depends on how deep the cells have penetrated the skin.
+
+In 2018, the World Health Organization (WHO) revised the classification of melanoma, distinguishing them by their cumulative solar damage (CSD), anatomic site, epidemiology and mutation signatures. These now include low and high CSD melanomas, desmoplastic melanoma , Spitz melanomas , acral melanomas , mucosal melanomas , melanomas in congenital nevus , melanomas in blue nevus , and uveal melanomas .
+
+The more traditional morphologic classification by histopathology of melanoma, includes the subtypes:
+
+Superficial spreading melanoma (~55-60% of all melanomas)
+
+Nodular melanoma (~10-15% of all melanomas)
+
+Lentigo maligna melanoma and lentiginous melanoma (in sun-damaged sites) (~10-15% of all melanomas)
+
+Acral lentiginous melanoma (on soles of feet, palms of hands or nails ; <5% of all melanomas).
+
+Desmoplastic melanoma (~1-2% of all melanomas)
+
+Amelanotic melanoma (~2-20% of all melanomas)
+
+Combinations may also occur, for example, nodular melanoma arising within a superficial spreading melanoma.
+
+Melanoma is usually epithelial in origin ie, starting in the skin or, less often, mucous membranes. However, very rarely, melanoma can start in an internal tissue such as the brain ( primary CNS melanoma) or the back of the eye.
+
+Melanoma can also be classified according to its relationship with age.
+
+Risk factors are genetic, environmental and iatrogenic or acquired immunosuppression
+
+Infrequently associated with excessive sun exposure
+
+Compared to melanoma in adults, they are more often amelanotic (flesh coloured, pink or red), nodular, bleeding and ulcerated.
+
+May arise within giant congenital melanocytic naevi > 40 cm diameter
+
+Often spitzoid melanoma type lacking conventional ABCD features (see below)
+
+The most common clinical subtype is superficial spreading
+
+Tend to have a BRAF V600E genetic mutation
+
+Associated with intermittent sun exposure
+
+The most common clinical subtype is lentigo maligna
+
+Associated with accumulated lifelong sun exposure
+
+What are the clinical features of melanoma?
+
+Melanomas can occur anywhere on the body, not only in areas that get a lot of sun. In New Zealand, the most common site in men is the back (around 40% of melanomas in men), and the most common site in women is the leg (around 35% of melanomas in women).
+
+Although melanoma usually starts as a skin lesion, it can also grow on mucous membranes ( mucosal melanoma), such as the lips or genitals. Occasionally it occurs in other parts of the body such as the eye, brain, mouth or vagina.
+
+The first sign of a melanoma is usually an unusual looking freckle or mole and may itch or bleed. Melanomas may grow across the skin (known as the radial growth phase) or grow in depth (known as the vertical growth phase).
+
+Melanoma may be detected at an early stage when it is only a few millimetres in diameter, but it may grow to several centimetres in diameter before it is diagnosed.
+
+A melanoma may have a variety of colours including:
+
+Tan, dark brown, black, blue, red and, occasionally, light grey.
+
+Melanomas that are lacking pigment are called amelanotic melanoma.
+
+There may be areas of regression that are the colour of normal skin, or white and scarred.
+
+During its horizontal phase of growth, a melanoma is normally flat. As the vertical phase develops, the melanoma becomes thickened, raised, and palpable.
+
+Some melanomas are itchy or tender. More advanced lesions may bleed easily or crust over.
+
+Most melanomas have characteristics described by the ABCDE+EFG melanoma criteria or the Glasgow 7-point checklist.
+
+A: A symmetry of shape and colour B: B order irregularity, including smudgy or ill-defined margin C: C olour variation and change D: D ifferent (formerly diameter) E: E volving (enlarging, changing)
+
+Melanomas may not conform to the 'ABCD' rule alone. For nodular melanomas, also consider the EFG signs
+
+E: E levated F: F irm to touch G: G rowing
+
+Taking a thorough history is important, and any lesion that changes in size, shape, colour, or elevation for more than one month should be reviewed by a dermatologist or biopsied.
+
+How do clinical features vary in differing types of skin?
+
+White or pale skin colour is an independent but significant risk factor for melanoma across diverse ethnic groups. However, people of all skin colours with a family history of melanoma are at increased risk of developing melanoma due to a genetic predisposition.
+
+In skin of colour, it can be harder to identify melanomas, their growth phase, and their pattern as the surrounding skin may mask or match the colour of the melanoma.
+
+Thicker melanomas at diagnosis and higher mortality rates
+
+Significantly higher rates of melanomas in areas not exposed to the sun, including the subungual , palmar , and plantar surfaces (eg, acral lentiginous melanoma in Pacific Islanders, blacks, and Asians)
+
+Non-cutaneous melanomas (eg, mucosal melanoma , ocular melanoma ).
+
+This topic is further discussed on the melanoma of skin colour page.
+
+Side effects from systemic or radiation therapy
+
+Seromas, lymphoedema, and lymphoceles with node dissection.
+
+Melanoma may be suspected because of a lesion's clinical features or a history of change.
+
+A thorough history and skin examination will be performed using the "ugly duckling" sign , ABCDE rule, and the Glasgow revised seven-point checklist (described above). This may be supported by dermoscopy , confocal microscopy , total body photography (mole mapping) , and adhesive patch genomic analysis , among other methods.
+
+Dermoscopy — Some melanomas are extremely difficult to recognise clinically. The dermatoscopic appearance is helpful in the diagnosis of melanoma. Melanoma-specific criteria often include an atypical pigment network; brown-black dots/ globules ; multiple (5–6) colours asymmetrically distributed; blue-white veil; depigmentation ; and irregular vascular pattern. Dermoscopy monitoring should only be considered for flat or slightly raised lesions, whereas any suspicious or nodular lesions should be excised.
+
+Confocal Microscopy — Where available, reflectance confocal microscopy (RCM) may be useful for clinical and dermoscopic examination of suspected melanoma lesions. RCM is a live imaging technology that allows for instant viewing of the epidermis and papillary dermis with nearly histologic resolution. Areas of higher melanin concentration appear as bright areas on a confocal image. This technology is especially useful for identifying amelanotic or hypomelanotic melanomas, mapping surgical margins pre-operatively, and monitoring lesions over time.
+
+Photographic skin surveillance — Where available, total body photography (TBP), eg, MoleMap, should be considered for high-risk individuals, particularly those with high naevus counts and dysplastic naevi. TBP provides a baseline for monitoring new lesions and changes in pre-existing naevi. While not all changed lesions need to be excised, if there is clinical or dermoscopic evidence for melanoma at any point, excision is recommended.
+
+Radiographic investigations — Imaging, such as CT or PET , may be appropriate for staging or surveillance of melanomas that are at significant risk for distant metastases.
+
+Adhesive patch genomic analysis — skin surface tape stripping is a non-invasive test that can be used on pigmented lesions to obtain their genomic signature. It can be used to assist in the diagnosis of melanoma.
+
+Histopathology is required for the definitive diagnosis of melanoma.
+
+Where possible, suspicious lesions should be surgically removed by diagnostic excision with a 2 mm clinical margin and upper subcutis for pathological examination. A partial ( incisional ) biopsy is best avoided but may be considered where complete excision is not feasible, eg, large lesions. Nail biopsy for suspected melanoma of the nail is discussed elsewhere.
+
+The pathological diagnosis of melanoma can be very difficult. Immunohistochemical stains may help confirm melanoma and include S-100, SOX10, MART-1, HMB-45, MITF, tyrosinase and PRAME. Also, molecular techniques such as gene expression profiling and fluorescence in situ hybridisation (FISH), may aid in diagnosis.
+
+If there is invasive melanoma, the pathologist will comment on:
+
+Breslow thickness —the Breslow thickness is reported for invasive melanomas to the nearest 0.1 mm. It is measured vertically in millimetres from the top of the granular layer (or base of superficial ulceration ) to the deepest point of tumour involvement. It is a strong predictor of outcome; the thicker the melanoma, the more likely it is to metastasise (spread).
+
+Clark level of invasion—indicates the anatomic plane of invasion. Deeper Clark levels have a greater risk of metastasis. It is useful in predicting the outcome of thin tumours. It is less useful than Breslow thickness for thick tumours. Level 1: In situ melanoma Level 2: Melanoma has invaded the papillary dermis Level 3: Melanoma has filled the papillary dermis Level 4: Melanoma has invaded the reticular dermis Level 5: Melanoma has invaded the subcutaneous tissue
+
+Level 2: Melanoma has invaded the papillary dermis
+
+Level 3: Melanoma has filled the papillary dermis
+
+Level 4: Melanoma has invaded the reticular dermis
+
+Level 5: Melanoma has invaded the subcutaneous tissue
+
+Margins of excision—the normal tissue around a tumour
+
+Mitotic rate—a measure of how fast the cells are proliferating
+
+The report may also include comments about the cell type, growth pattern, invasion of blood vessels or nerves , inflammatory response, regression, associated in-situ disease and any associated naevus (original mole).
+
+Melanoma staging means finding out if the melanoma has spread from its original site in the skin. Most melanoma specialists refer to the American Joint Committee on Cancer (AJCC) cutaneous melanoma staging guidelines (8th edition, 2018). In summary, the stages are:
+
+Thick melanoma > 2 mm in thickness, or > 1mm thickness with ulceration
+
+Thick melanoma > 2 mm in thickness, or > 1mm thickness with ulceration
+
+Melanoma spread to involve local lymph nodes
+
+Melanoma spread to involve local lymph nodes
+
+What is the differential diagnosis for melanoma?
+
+Pigmented basal cell carcinoma (the most common skin cancer in whites, Asians, and Hispanics)
+
+Squamous cell carcinoma (the most common skin cancer in blacks and Indians)
+
+A dermatologist and oncologist may both be involved to provide a recommended treatment option based on the melanoma stage and other factors such as age and general health.
+
+Surgery is the most common treatment for early-stage (Stage 0, I or II) melanoma. If caught early, 90% of melanomas can be cured with simple surgery alone.
+
+More advanced melanomas (Stage III or IV) may require a combination of treatments, including surgery, drug therapy, and radiation therapy . All melanoma patients with distant metastases should be reviewed by a multidisciplinary team to ensure an optimal treatment combination.
+
+Melanoma therapy is rapidly evolving with the frequent availability of new and more effective treatments. Access to these new treatments is dependent on the results of clinical trials and approval by government bodies. For an up-to-date summary of therapies available, please refer to your local guideline such as the Australian Cancer Council clinical practice guidelines for the diagnosis and management of melanoma .
+
+Following confirmation of the diagnosis, wide local excision is carried out at the primary melanoma site. The extent of surgery depends on the thickness of the melanoma and its site.
+
+Margins recommended in New Zealand (2013):
+
+Australian Clinical Practice Guidelines for the diagnosis and management of melanoma (updated 2018), recommend, where possible:
+
+Melanoma in situ: 5 mm, and wider margins if appropriate
+
+If the melanoma is widespread , surgical treatment is not always successful in eradicating cancer. Some patients may be offered new or experimental treatments. Currently, there are two main types of drug therapy used to treat melanoma:
+
+Targeted therapy BRAF inhibitors : dabrafenib and vemurafenib MEK inhibitors : trametinib Combination BRAF and MEK inhibitors : dabrafenib C-KIT inhibitors: imatinib , nilotinib
+
+BRAF inhibitors : dabrafenib and vemurafenib
+
+Combination BRAF and MEK inhibitors : dabrafenib
+
+Immunotherapy/immune-modulating therapy PD-1 antagonist: pembrolizumab and nivolumab PD-L1: atezolizumab CTLA-4 antagonist: ipilimumab LAG-3 inhibitor : relatlimab Interleukin-2 (IL-2) Interferon alfa 2b Chimeric antigen receptor T cell therapy (CAR-T) Imiquimod Oncolytic virus - Talimogene laherparepvec (Imlygic)
+
+PD-1 antagonist: pembrolizumab and nivolumab
+
+Chimeric antigen receptor T cell therapy (CAR-T)
+
+Oncolytic virus - Talimogene laherparepvec (Imlygic)
+
+For a more detailed summary of the immunotherapy agents currently available, see the Cancer Research Institute website.
+
+Chemotherapy is rarely used in Australia and New Zealand for melanoma management.
+
+Radiation therapy is a localised treatment that uses high-energy radiation to kill cancer cells. It may be given on its own (when the patient has a melanoma too widespread for surgery or is unfit for surgery), after surgery (particularly when there is a high risk of recurrence ) or as a combination therapy.
+
+Radiation therapy should be considered in patients with a single or small number of brain metastases, painful bone metastases, problematic skin, soft tissue or nodal metastases that have not responded to systemic therapy. This may help relieve symptoms from the metastases.
+
+In Australia and New Zealand, it is recommended that lymphatic mapping with a sentinel node biopsy is performed for melanomas thicker than 1 mm or where the melanoma is greater than 0.75 mm with other high-risk pathological features. However, while the biopsy may help in staging cancer and directing the use of adjuvant therapies, it does not offer any survival advantage.
+
+When the sentinel node is removed it is assessed for the presence of malignant cells, which may indicate melanoma spread to other body parts. In the past, a positive sentinel node biopsy required a lymph node dissection to remove all the lymph nodes in the area. However, this is no longer the preferred treatment. Patients may choose to have the procedure to reduce the risk of lymph node field relapse.
+
+What happens at follow-up after a melanoma diagnosis?
+
+Follow-up after a melanoma diagnosis is required to:
+
+Detect recurrence and metastasis ( metastatic melanoma ) early
+
+Diagnose a new primary melanoma at the first possible opportunity. A second invasive melanoma occurs in 5–10% of melanoma patients, and a new melanoma in situ is diagnosed in more than 20% of melanoma patients.
+
+The current Cancer Council Australia and Melanoma Institute Australia (2022) Clinical Guidelines make the following recommendations for follow-up for patients with invasive melanoma:
+
+Skin self-examination and sun-smart behaviour education
+
+Routine skin checks by the patient's preferred health professional
+
+Follow-up intervals: Stage I: follow-up annually for 10 years Stage IIA: every 6 months for 2 years, then annually for 8 years Stage IIB and IIC: every 3 to 4 months for 2 years, every 6 months during year 3, then annually for 5 years. Stage IIIA-C: every 3 months for 2 years, every 6 months during year 3, then annually for 5 years.
+
+Stage IIA: every 6 months for 2 years, then annually for 8 years
+
+Stage IIB and IIC: every 3 to 4 months for 2 years, every 6 months during year 3, then annually for 5 years.
+
+Stage IIIA-C: every 3 months for 2 years, every 6 months during year 3, then annually for 5 years.
+
+Individual patient needs should be considered before an appropriate follow-up is offered
+
+Provide education and support to help the patient adjust to their illness.
+
+The follow-up appointments may be undertaken by the patient's general practitioner and specialist. Follow-up appointments may include:
+
+Check of the scar where the primary melanoma was removed — including visual inspection and palpation
+
+Sequential TBP and dermoscopy monitoring of concerning melanocytic lesions in those with many melanocytic naevi or atypical melanocytic naevi.
+
+In those with more advanced primary disease, follow-up may include:
+
+Imaging: ultrasound , X-ray, CT, MRI , and FDG-PET scans.
+
+Most tests are not worthwhile for patients with stage 1 or 2 melanoma unless there are signs or symptoms of disease recurrence or metastasis. No tests are necessary for healthy patients who have remained well for five years or longer after the removal of their melanoma.
+
+Preventative measures involve addressing risk factors such as exposure to UV radiation, eg, wearing protective clothing , using sunscreen (SPF 50), and avoiding tanning beds . For more information, see skin cancer .
+
+Melanoma in situ is cured by excision because it has no potential to spread around the body.
+
+The risk of spread and ultimate death from invasive melanoma depends on several factors, including anatomic location, pathologic factors, and mutation status. However, the main factor is the Breslow thickness of the melanoma at the time it was surgically removed.
+
+Metastases are rare for melanomas < 0.75 mm in size, and the risk associated with tumours 0.75–1 mm thick is about 5%. The risk steadily increases with thickness so that melanomas > 4 mm have a risk of metastasis of about 40%.
+
+MIA (2018) Cancer Council Australia Melanoma Guidelines Working Party. Clinical practice guidelines for the diagnosis and management of melanoma. Available at: https://www.cancer.org.au/health-professionals/clinical-practice-guidelines/skin-cancer
+
+Anderson WF, Pfeiffer RM, Tucker MA, Rosenberg PS. Divergent cancer pathways for early-onset and late-onset cutaneous malignant melanoma. Cancer. 2009;115(18):4176–85. doi:10.1002/cncr.24481. Journal
+
+Balch CM et al. Final Version of 2009 AJCC Melanoma Staging and Classification. J Clin Oncol 27:6199–6206. Journal
+
+Dalvin LA, Damento GM, Yawn BP, Abbott BA, Hodge DO, Pulido JS. Parkinson disease and melanoma: confirming and reexamining an association. Mayo Clin Proc. 2017;92(7):1070–19. doi:10.1016/j.mayocp.2017.03.014. Journal
+
+Elder DE, Bastian BC, Cree IA, Massi D, Scolyer RA. The 2018 World Health Organization Classification of Cutaneous, Mucosal, and Uveal Melanoma: Detailed Analysis of 9 Distinct Subtypes Defined by Their Evolutionary Pathway. Arch Pathol Lab Med. 2020;144(4):500–522. doi:10.5858/arpa.2019-0561-RA. Journal
+
+Marsden JR, Newton-Bishop JA, Burrows L, et al. Revised U.K. guidelines for the management of cutaneous melanoma 2010. Br J Dermatol. 2010;163(2):238–56. doi:10.1111/j.1365-2133.2010.09883.x. PubMed
+
+Richardson A, Fletcher L, Sneyd M, Cox B, Reeder AI. The incidence and thickness of cutaneous malignant melanoma in New Zealand 1994-2004. N Z Med J. 2008;121(1279):18–26. PubMed
+
+Rossi M, Pellegrini C, Cardelli L, Ciciarelli V, Di Nardo L, Fargnoli MC. Familial Melanoma: Diagnostic and Management Implications. Dermatol Pract Concept. 2019;9(1):10-16. Published 2019 Jan 31. doi:10.5826/dpc.0901a03. PubMed Central
+
+Sturm, R. A., Smit, D. J., Duffy, D. L., McLean, C., Scolyer, R. A., McArthur, G. A., Papenfuss, A. T., Stark, M. S., Soyer, H. P., & Mar, V. J. (2025). Uncovering the molecular mechanisms of amelanotic/hypopigmented primary cutaneous melanoma. British Journal of Dermatology, 192(1), 55–62. doi:10.1093/bjd/ljae336. Journal
+
+Topical and intralesional immunotherapy for melanoma metastases
+
+Skin cancers and precancers — DermNet e-lecture [Youtube]
+
+Australian Cancer Council Clinical practice guidelines for the diagnosis and management of melanoma .
+
+Environmental Health Indicators New Zealand (EHINZ)
+
+Melanoma: assessment and management — NICE guidelines, 2022
+
+Revised U.K. guidelines for the management of cutaneous melanoma 2010 – British Association of Dermatologists, PDF file https://onlinelibrary.wiley.com/doi/10.1111/j.1365-2133.2010.09883.x
+
+Melanoma — American Academy of Dermatology
+
+Melanoma Outcome Calculator — Laboratory for Quantitative Medicine at Massachusetts General Hospital
+
+Victorian Melanoma Service Melanoma Risk Calculator
+
+Melanoma risk assessment tool — Melanoma Institute of Australia

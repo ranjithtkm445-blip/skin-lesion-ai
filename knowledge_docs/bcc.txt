@@ -1,0 +1,247 @@
+# Basal Cell Carcinoma (bcc)
+Source: DermNet NZ (dermnetnz.org)
+
+
+## Source: https://dermnetnz.org/topics/basal-cell-carcinoma
+
+Authors: Honorary Associate Professor Amanda Oakley, Dermatologist, New Zealand (1997); Minor update: Dr Anthony Martin Fuentes, General Practitioner and Cosmetic Doctor, Hospital Jose Molina Orosa, Spain (2025) Update peer reviewed by: Dr Andjela Arandjelovic, Dermatology Clinical and Trials Research Fellow, Royal Melbourne Hospital, Australia (2025)
+
+Reviewing dermatologist: Dr Ian Coulson Edited by the DermNet content department.
+
+Introduction Demographics Causes Clinical features Types of BCC Complications Diagnosis Treatment for primary basal cell carcinoma Treatment for advanced basal cell carcinoma Prevention Outlook
+
+Basal cell carcinoma (BCC) is a common, locally invasive , keratinocyte cancer (also known as nonmelanoma cancer ). It is the most common form of skin cancer . BCC is also known as rodent ulcer and basalioma. Patients with BCC often develop multiple primary tumours over time.
+
+BCC is also known as rodent ulcer and basalioma.
+
+Age and sex : BCCs are particularly prevalent in elderly males. However, they also affect females and younger adults
+
+Previous BCC or other form of skin cancer ( squamous cell carcinoma , melanoma )
+
+Sun damage ( photoageing , actinic keratoses )
+
+Fair skin, blue eyes and blond or red hair — note; BCC can also affect darker skin types
+
+Previous cutaneous injury, thermal burn , disease (eg cutaneous lupus , sebaceous naevus )
+
+Inherited syndromes: BCC is a particular problem for families with basal cell naevus syndrome ( Gorlin syndrome ), Bazex-Dupré-Christol syndrome , Rombo syndrome, Oley syndrome and xeroderma pigmentosum
+
+Other risk factors include ionising radiation, exposure to arsenic , immune suppression due to disease or medicines , and use of some other medicines such as hydrochlorothiazide.
+
+Most often, there are DNA mutations in the patched (PTCH) tumour suppressor gene , part of the hedgehog signalling pathway.
+
+These may be triggered by exposure to ultraviolet radiation .
+
+Various spontaneous and inherited gene defects predispose to BCC.
+
+What are the clinical features of basal cell carcinoma?
+
+BCC is a locally invasive skin tumour. The main characteristics are:
+
+Varies in size from a few millimetres to several centimetres in diameter
+
+BCC is very rarely a threat to life. A tiny proportion of BCCs grow rapidly, invade deeply, and/or metastasise to local lymph nodes.
+
+See also: Basal cell carcinoma in skin of colour
+
+There are several distinct clinical types of BCC, and over 20 histological growth patterns of BCC.
+
+Shiny or pearly nodule with a smooth surface
+
+May have central depression or ulceration, so its edges appear rolled
+
+Cystic variant is soft, with jelly-like contents
+
+Micronodular, microcystic and infiltrative types are potentially aggressive subtypes
+
+Most common type on the upper trunk and shoulders
+
+Waxy, scar-like plaque with indistinct borders
+
+May infiltrate cutaneous nerves ( perineural spread)
+
+Also known as morpheic, morphoeiform or sclerosing BCC
+
+Mixed basal cell carcinoma (BCC) and squamous cell carcinoma (SCC)
+
+Potentially more aggressive than other forms of BCC
+
+Also known as basosquamous carcinoma and mixed basal- squamous cell carcinoma
+
+What are the complications of basal cell carcinoma?
+
+Recurrence of BCC after initial treatment is not uncommon. Characteristics of recurrent BCC often include:
+
+Incomplete excision or narrow margins at primary excision
+
+Morphoeic, micronodular, and infiltrative subtypes
+
+Advanced BCCs are large, often neglected tumours.
+
+They may be several centimetres in diameter
+
+They may be deeply infiltrating into tissues below the skin
+
+They are difficult or impossible to treat surgically
+
+Primary tumour is often large, neglected or recurrent, located on head and neck, with aggressive subtype
+
+May arise in-site exposed to ionising radiation
+
+BCC is diagnosed clinically by the presence of a slowly enlarging skin lesion with typical appearance.
+
+Arborizing vessels ( telangiectasia with tree-like branching)
+
+Additional criteria for non-pigmented, superficial BCC:
+
+Non-classical vascular patterns (hairpin, glomerular, dotted, comma).
+
+Shiny white lines — tend to be disorganised or arranged in parallel
+
+Stellate pattern — from the visible tumour edge; may be formed by white lines, vessels, or uneven skin surfaces
+
+Multiple aggregated yellow-white (MAY) globules.
+
+The diagnosis and histological subtype is usually confirmed pathologically by a diagnostic biopsy or following excision . See: basal cell carcinoma pathology .
+
+While histology remains the gold standard for BCC subtyping, non-invasive optical techniques like line-field confocal optical coherence tomography (LC-OCT) are increasingly utilized for BCC diagnosis and monitoring. LC-OCT has proven its effectiveness in real-world settings, enabling early detection, minimizing unnecessary biopsies , and providing valuable insights into disease progression, especially in cases where surgery is not indicated.
+
+What is the treatment for primary basal cell carcinoma?
+
+The treatment for a BCC depends on its type, size and location, the number to be treated, patient factors, and the preference or expertise of the doctor. Most BCCs are treated surgically. Long-term follow-up is recommended to check for new lesions and recurrence; the latter may be unnecessary if histology has reported wide clear margins.
+
+Excision means the lesion is cut out and the skin stitched up.
+
+Most appropriate treatment for nodular, infiltrative and morphoeic BCCs.
+
+Should include 3 to 5 mm margin of normal skin around the tumour.
+
+Very large lesions may require flap or skin graft to repair the defect.
+
+A pathologist will report deep and lateral margins.
+
+Further surgery is recommended for lesions that are incompletely excised.
+
+Mohs micrographically controlled excision
+
+Mohs micrographically controlled surgery involves examining carefully marked excised tissue under the microscope , layer by layer, to ensure complete excision.
+
+Very high cure rates achieved by trained Mohs surgeons.
+
+Used in high-risk areas of the face around eyes, lips, and nose.
+
+Suitable for ill-defined, morphoeic, infiltrative and recurrent subtypes.
+
+Large defects are repaired by flap or skin graft .
+
+Superficial skin surgery comprises shave, curettage , and electrocautery . It is a rapid technique using local anaesthesia and does not require sutures .
+
+Suitable for small, well-defined nodular or superficial BCCs.
+
+Lesions are usually located on the trunk or limbs.
+
+Wound is left open to heal by secondary intention .
+
+Moist wound dressings lead to healing within a few weeks.
+
+Cryotherapy is the treatment of a superficial skin lesion by freezing it, usually with liquid nitrogen.
+
+Suitable for small superficial BCCs on covered areas of the trunk and limbs.
+
+Best avoided for BCCs on head and neck, and distal to knees.
+
+Results in a blister that crusts over and heals within several weeks.
+
+Photodynamic therapy (PDT) refers to a technique in which BCC is treated with a photosensitising chemical, and exposed to light several hours later.
+
+Topical photosensitisers include aminolevulinic acid lotion and methyl aminolevulinate cream .
+
+Suitable for low-risk small, superficial BCCs.
+
+Best avoided if tumour in-site at high risk of recurrence.
+
+Results in inflammatory reaction, maximal 3–4 days after procedure.
+
+Treatment repeated 7 days after initial treatment.
+
+Imiquimod is an immune response modifier.
+
+Best used for superficial BCCs less than 2 cm diameter.
+
+Applied three to five times each week, for 6–16 weeks.
+
+Results in a variable inflammatory reaction, maximal at three weeks.
+
+5-Fluorouracil cream is a topical cytotoxic agent.
+
+Used to treat small superficial basal cell carcinomas.
+
+Requires prolonged course, eg twice daily for 6–12 weeks.
+
+Radiotherapy or X-ray treatment can be used to treat primary BCCs or as adjunctive treatment if margins are incomplete.
+
+Best avoided in young patients and in genetic conditions predisposing to skin cancer.
+
+Best cosmetic results achieved using multiple fractions.
+
+Typically, patient attends once-weekly for several weeks.
+
+Causes inflammatory reaction followed by scar.
+
+Risk of radiodermatitis , late recurrence, and new tumours.
+
+What is the treatment for advanced or metastatic basal cell carcinoma?
+
+Locally advanced primary, recurrent or metastatic BCC requires multidisciplinary consultation. Often a combination of treatments is used.
+
+Targeted therapy refers to the hedgehog signalling pathway inhibitors , vismodegib and sonidegib . These drugs have some important risks and side effects.
+
+How can basal cell carcinoma be prevented?
+
+The most important way to prevent BCC is to avoid sunburn . This is especially important in childhood and early life. Fair-skinned individuals and those with a personal or family history of BCC should protect their skin from sun exposure daily, year-round and lifelong.
+
+Stay indoors or under the shade in the middle of the day.
+
+Apply high protection factor SPF50+ broad-spectrum sunscreens generously to exposed skin if outdoors.
+
+Oral nicotinamide (vitamin B3) in a dose of 500 mg twice daily may reduce the number and severity of BCCs.
+
+What is the outlook for basal cell carcinoma?
+
+Most BCCs are cured by treatment. Cure is most likely if treatment is undertaken when the lesion is small.
+
+About 50% of people with BCC develop a second one within 3 years of the first. They are also at increased risk of other skin cancers , especially melanoma . Regular self-skin examinations and long-term annual skin checks by an experienced health professional are recommended.
+
+Álvarez-Salafranca M, Ara M, Zaballos P. Dermoscopy in Basal Cell Carcinoma: An Updated Review. Advances in Dermatology. 2021; doi: 10.1016/j.ad.2020.11.011. Journal
+
+Barbarossa L, D’Onghia M, Cartocci A, Suppa M, Tognetti L, Cappilli S, Peris K, Perez-Anker J, Malvehy J, Baldino G, et al. Understanding the Dermoscopic Patterns of Basal Cell Carcinoma Using Line-Field Confocal Tomography. Tomography. 2024; 10(6):826-838. https://doi.org/10.3390/tomography10060063. Journal
+
+Kim DP, Kus KJB, Ruiz E. Basal Cell Carcinoma Review. Head & Neck Oncology. 2018;10(1):21. doi: 10.1016/j.hoc.2018.09.004. Journal
+
+Menzies SW, Westerhoff K, Rabinovitz H, Kopf AW, McCarthy WH, Katz B. Surface Microscopy of Pigmented Basal Cell Carcinoma. Arch Dermatol. 2000;136(8):1012–1016. doi:10.1001/archderm.136.8.1012. Journal
+
+Wojtowicz I, Żychowska M. Dermoscopy of Basal Cell Carcinoma Part 1: Dermoscopic Findings and Diagnostic Accuracy-A Systematic Literature Review. Cancers (Basel). 2025;17(3):493. Published 2025 Feb 1. doi:10.3390/cancers17030493. Journal
+
+Work Group; Kim JYS, Kozlow JH, Mittal B, Moyer J, Olencki T, Rodgers P. Guidelines of care for the management of basal cell carcinoma. J Am Acad Dermatol. 2018;78(3):540-559. doi: 10.1016/j.jaad.2017.10.006. Journal
+
+Basal cell carcinoma — common skin lesions course | Basal cell carcinoma dermoscopy | Genetics of basal cell carcinoma | Basal cell carcinoma pathology | Basal cell carcinoma in skin of colour
+
+Dermatological procedures | Mohs micrographic surgery | Targeted cancer therapy
+
+Skin cancer | Skin lesions | Vulval cancer
+
+Skin cancers and precancers — DermNet e-lecture [Youtube]
+
+Clinical practice guidelines for keratinocyte cancer — Cancer Guidelines wiki
+
+American College of Mohs Micrographic Surgery and Oncology
+
+Mohs Micrographic Surgery from Johns Hopkins Oncology Center
+
+Basal cell carcinoma : emedicine dermatology, the online medical reference textbook.
+
+Basal cell carcinoma — British Association of Dermatologists
+
+Optimal care pathway for people with basal cell carcinoma or squamous cell carcinoma — Cancer Council of Australia, June 2016
+
+Basal cell carcinoma — American Academy of Dermatology

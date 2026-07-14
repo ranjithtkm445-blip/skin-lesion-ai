@@ -1,0 +1,273 @@
+# Benign Keratosis-like Lesions (bkl)
+Source: DermNet NZ (dermnetnz.org)
+
+
+## Source: https://dermnetnz.org/topics/seborrhoeic-keratosis
+
+Author: Dr Amanda Oakley, Dermatologist, Hamilton, New Zealand, 1997. Updated, January 2016.
+
+Introduction Demographics Causes Clinical features Complications Diagnosis Treatment Prevention Outlook
+
+Seborrhoeic keratosis is a harmless warty spot that appears during adult life as a common sign of skin ageing . Some people have hundreds of them.
+
+Seborrhoeic keratosis (American spelling - seborrheic keratosis) is also called SK, basal cell papilloma , senile wart, brown wart, wisdom wart, or barnacle. The descriptive term, benign keratosis, is a broader term that is used to include the following related scaly skin lesions :
+
+Solar lentigo (which can be difficult to distinguish from a flat seborrhoeic keratosis)
+
+Lichen planus-like keratosis (which arises from a seborrhoeic keratosis or a solar lentigo ).
+
+Seborrhoeic keratoses are extremely common. It has been estimated that over 90% of adults over the age of 60 years have one or more of them. They occur in males and females of all races, typically beginning to erupt in the 30s or 40s. They are uncommon under the age of 20 years.
+
+The precise cause of seborrhoeic keratoses is not known.
+
+The name is misleading, because they are not limited to a seborrhoeic distribution (scalp, mid-face, chest, upper back) as in seborrhoeic dermatitis , nor are they formed from sebaceous glands , as is the case with sebaceous hyperplasia , nor are they associated with sebum — which is greasy.
+
+Seborrhoeic keratoses are considered degenerative in nature. As time goes by, seborrhoeic keratoses become more numerous. Some people inherit a tendency to develop a very large number of them. Researchers have noted:
+
+Eruptive seborrhoeic keratoses can follow sunburn or dermatitis .
+
+Skin friction may be the reason they appear in body folds.
+
+Viral cause (eg human papillomavirus) seems unlikely.
+
+Stable and clonal mutations or activation of FRFR3, PIK3CA, RAS, AKT1 and EGFR genes are found in seborrhoeic keratoses.
+
+Seborrhoeic keratosis can arise from solar lentigo .
+
+FRFR3 mutations also arise in solar lentigines. These mutations are associated with increased age and location on the head and neck, suggesting a role of ultraviolet radiation in these lesions.
+
+Seborrhoeic keratoses do not harbour tumour suppressor gene mutations.
+
+Epidermal growth factor receptor inhibitors (used to treat cancer ) often result in an increase in verrucal (warty) keratoses.
+
+What are the clinical features of seborrhoeic keratoses?
+
+Seborrhoeic keratoses can arise on any area of skin, covered or uncovered, with the exception of palms and soles. They do not arise from mucous membranes.
+
+Seborrhoeic keratoses have a highly variable appearance.
+
+Skin coloured, yellow, grey, light brown, dark brown, black or mixed colours
+
+Solitary or grouped in certain areas, such as within the scalp, under the breasts, over the spine or in the groin
+
+They appear to stick on to the skin surface like barnacles.
+
+See dermoscopy images of seborrhoeic keratoses
+
+Variants of seborrhoeic keratoses include:
+
+Solar lentigo : flat circumscribed pigmented patches in sun-exposed sites
+
+Dermatosis papulosa nigra : small, pedunculated and heavily pigmented seborrhoeic keratoses on head and neck of darker-skinned individuals
+
+Stucco keratose s: grey, white or yellow papules on the lower extremities
+
+Lichenoid keratosis : an inflammatory phase preceding involution of some seborrhoeic keratoses and solar lentigines.
+
+Florid lesions of stucco keratoses on the ankle
+
+Seborrhoeic keratoses are not premalignant tumours. However:
+
+Skin cancers are sometimes difficult to tell apart from seborrhoeic keratoses.
+
+Skin cancer may by chance arise within or collide with a seborrhoeic keratosis.
+
+Very rarely, eruptive seborrhoeic keratoses may denote an underlying internal malignancy , most often gastric adenocarcinoma. The paraneoplastic syndrome is known as the sign of Leser-Trélat . Eruptive seborrhoeic keratoses that are not associated with cancer are sometimes described as having pseudo-sign of Leser-Trélat.
+
+Eruptive and irritated seborrhoeic keratoses may also arise as an adverse reaction to a medication, such as adalimumab , vemurafenib , dabrafenib , 5-fluorouracil and many chemotherapy drugs .
+
+An irritated seborrhoeic keratosis is an inflamed, red and crusted lesion. It may give rise to eczematous dermatitis around the seborrhoeic keratosis. Dermatitis may also trigger new seborrhoeic keratoses to appear.
+
+How is a seborrhoeic keratosis diagnosed?
+
+The diagnosis of seborrhoeic keratosis is often easy.
+
+A stuck-on, well- demarcated warty plaque
+
+Sometimes, seborrhoeic keratosis may resemble skin cancer , such as basal cell carcinoma , squamous cell carcinoma or melanoma .
+
+Dermoscopy often shows a disordered structure in a seborrhoeic keratosis , as is also true for skin cancer. There are diagnostic dermatoscopic clues to seborrhoeic keratosis, such as multiple orange or brown clods (due to keratin in skin surface crevices), white milia -like clods, and curved thick ridges and furrows forming a brain-like or cerebriform pattern.
+
+If doubt remains, a seborrhoeic keratosis may undergo partial shave or punch biopsy or diagnostic excision . [see Seborrhoeic keratosis pathology ]
+
+The dominant histopathological features of seborrhoeic keratosis may be described as:
+
+What is the treatment for seborrhoeic keratoses?
+
+An individual seborrhoeic keratosis can easily be removed if desired. Reasons for removal may be that it is unsightly, itchy, or catches on clothing.
+
+Methods used to remove seborrhoeic keratoses include:
+
+Cryotherapy (liquid nitrogen) for thinner lesions (repeated if necessary)
+
+Shave biopsy (shaving off with a scalpel)
+
+Focal chemical peel with trichloracetic acid
+
+All methods have disadvantages. Treatment-induced loss of pigmentation is a particular issue for dark-skinned patients. There is no easy way to remove multiple lesions on a single occasion.
+
+How can seborrhoeic keratoses be prevented?
+
+How to prevent seborrhoeic keratoses is unknown.
+
+What is the outlook for seborrhoeic keratoses?
+
+Seborrhoeic keratoses tend to persist. From time to time, individual or multiple lesions may remit spontaneously or via the lichenoid keratosis mechanism.
+
+Those associated with dermatitis may regress after it has been controlled.
+
+Jackson JM, Alexis A, Berman B, Berson DS, Taylor S, Weiss JS. Current Understanding of Seborrheic Keratosis: Prevalence, Etiology, Clinical Presentation, Diagnosis, and Management. J Drugs Dermatol. 2015 Oct 1;14(10):1119–25. PubMed
+
+Hafner C, Hartmann A, van Oers JM, Stoehr R, Zwarthoff EC, Hofstaedter F, Landthaler M, Vogt T. FGFR3 mutations in seborrheic keratoses are already present in flat lesions and associated with age and localization. Mod Pathol. 2007 Aug;20(8):895–903. Epub 2007 Jun 22. PubMed
+
+Hafner C, Hafner H, Groesser L. [Genetic basis of seborrheic keratosis and epidermal nevi]. Pathologe. 2014 Sep;35(5):413–23. doi: 10.1007/s00292-014-1928-9. Review. German. PubMed
+
+Hida Y, Kubo Y, Arase S. Activation of fibroblast growth factor receptor 3 and oncogene-induced senescence in skin tumours. Br J Dermatol. 2009 Jun;160(6):1258–63. doi: 10.1111/j.1365-2133.2009.09068.x. Epub 2009 Mar 9. PubMed
+
+Husain Z, Ho JK, Hantash BM. Sign and pseudo-sign of Leser-Trélat: case reports and a review of the literature. J Drugs Dermatol. 2013 May;12(5):e79–87. Review. PubMed
+
+Benign keratinocytic and adnexal tumours – common skin lesions course
+
+Seborrheic Keratosis — Medscape Reference
+
+Seborrhoeic Warts — British Association of Dermatologists
+
+Patient information: Seborrheic keratosis (The Basics) — UpToDate (for subscribers)
+
+Seborrheic Keratosis — American Academy of Dermatology
+
+## Source: https://dermnetnz.org/topics/solar-lentigo
+
+Author: Dr Aoife Fitzpatrick; Dr Jonathan Chan, Consultant Dermatologist, Sir Charles Gairdner Hospital, Perth, Australia (2024) Peer reviewed by: Dr Brenda Ngo, Mater Hospital, Brisbane, Australia (2025) Previous contributor: Dr Bob Chan, Dermatology Registrar, Auckland, New Zealand (2014)
+
+Reviewing dermatologist: Dr Ian Coulson Edited by the DermNet content department.
+
+Introduction Demographics Causes Clinical features Variation in skin types Complications Diagnosis Differential diagnoses Prevention Outcome
+
+Solar lentigo is a common, benign , flat, pigmented lesion found predominantly on sun- exposed skin. It develops as a result of chronic exposure to ultraviolet radiation (UVR) from the sun or artificial sources eg, phototherapy , sunbeds .
+
+Solar lentigines are also commonly referred to as:
+
+Solar lentigo is associated with the following:
+
+Advancing age Most frequently seen in middle-aged and older adults, reflecting cumulative photodamage. Uncommon in children under 12, except in cases of significant sun exposure or if the child has xeroderma pigmentosum .
+
+Most frequently seen in middle-aged and older adults, reflecting cumulative photodamage.
+
+Uncommon in children under 12, except in cases of significant sun exposure or if the child has xeroderma pigmentosum .
+
+Lighter skin colour ( Fitzpatrick skin phototype I or II) May be found in up to 90% of Caucasians over the age of 60. Also common in the Asian population, where they tend to present on the face.
+
+May be found in up to 90% of Caucasians over the age of 60.
+
+Also common in the Asian population, where they tend to present on the face.
+
+Sunburn Can appear on sun-damaged skin after an acute sunburn
+
+Can appear on sun-damaged skin after an acute sunburn
+
+Use of sunbeds and certain forms of phototherapy (eg, psoralen and ultraviolet A ).
+
+Solar lentigines occur due to chronic exposure to ultraviolet radiation .
+
+While the exact pathogenesis is not fully understood, UVR is thought to cause mutations that enhance melanogenesis ( melanin production) and melanin retention within keratinocytes. While melanocytic activity is increased, a key feature of solar lentigo is that the number of melanocytes within the basal cell layer is normal or only slightly increased.
+
+Several gene mutations have been observed in both solar lentigo and seborrhoeic keratosis , suggesting a common genetic basis. These mutations include MC1R , SLC45A2, FGFR3, PIK3CA, IRF4, RALY/ASIP, and BNC2.
+
+Solar lentigines can also occur as part of genetic syndromes such as Noonan syndrome or Peutz-Jeghers syndrome .
+
+What are the clinical features of solar lentigo?
+
+Most commonly located on sun-exposed areas eg, dorsum of hands, forearms, upper body, and shins
+
+Well- demarcated flat or slightly raised lesions
+
+Colour ranges from yellow, tan, dark brown, or black, but individual lesions are typically uniform in colour
+
+Size varies from several millimetres to centimetres
+
+Lesions can be individual ( discrete ) or they may merge (coalescent)
+
+Surface can be rough/ scaly to palpate due to epidermal thickening
+
+Surrounding skin may display other signs of photodamage eg, senile purpura , idiopathic guttate hypomelanosis
+
+Solar lentigines are asymptomatic and do not cause itching or pain. Unlike ephelides (freckles), which disappear or substantially fade during winter, solar lentigo persists year-round, though it may slightly darken in summer.
+
+A solar lentigo on the nose — it is regularly pigmented and macular , with a regular border
+
+Multiple solar lentigines on a sun-damaged back
+
+Multiple solar lentigines on the back of the hand
+
+How do clinical features vary in differing types of skin?
+
+Solar lentigo may be more difficult to appreciate in darker skin types.
+
+What are the complications of solar lentigo?
+
+Missed diagnosis of skin cancer (eg, melanoma in situ ) due to a similar appearance
+
+Increased skin cancer risk Solar lentigines reflect UVR exposure and thus are associated with an increased risk of skin cancer. Solar lentigines are an independent risk factor for melanoma .
+
+Solar lentigines reflect UVR exposure and thus are associated with an increased risk of skin cancer.
+
+Solar lentigines are an independent risk factor for melanoma .
+
+Evolution into seborrhoeic keratosis or lichenoid keratosis
+
+Solar lentigines are typically diagnosed clinically, aided by dermoscopy.
+
+Well-demarcated and/or moth-eaten borders.
+
+Solar lentigines with unusual features that make it difficult to differentiate from a melanoma in situ are classified as atypical solar lentigines .
+
+A skin biopsy should be performed where there is diagnostic uncertainty or concern for malignancy. If the lesion is variegated in colour, biopsies should be performed from each distinct area. The rationale is that different pathologies (eg, lentigo maligna , pigmented actinic keratosis ) can co-exist within the same spot — these are called collision lesions.
+
+Typical histopathological features of solar lentigo include:
+
+Hyperpigmentation of the basal cell layer
+
+What is the differential diagnosis for solar lentigo?
+
+Lentigo simplex or other forms of lentigo
+
+Solar lentigines are benign lesions that do not require treatment, unless for cosmetic reasons.
+
+Rigorous sun protection : Reduces the risk of developing further solar lentigines May modestly lighten existing lesions.
+
+Reduces the risk of developing further solar lentigines
+
+Pigment-specific laser therapy eg, neodymium YAG laser
+
+Bleaching creams eg, hydroquinone , cysteamine cream , mequinol
+
+Combination-based therapy (using two or more modalities together) delivers the highest rates of resolution, followed by laser therapy, topical retinoids , cryotherapy , and peels. Destructive modalities (eg, cryotherapy, laser therapy) carry the risk of leaving behind pale or dark spots, which can be temporary or permanent.
+
+Strict sun protection is required to prevent recurrence after treatment.
+
+Solar lentigines can be prevented by exercising strict sun protection .
+
+If left untreated, solar lentigines will likely persist but remain benign. Solar lentigo can slowly enlarge or darken with time, remain stable, or occasionally undergo spontaneous regression through a lichenoid reaction pattern .
+
+Bolognia JL, Schaffer JV, Cerroni L. Dermatology. Elsevier; 2024.
+
+Byrom L, Barksdale S, Weedon D, et al. Unstable solar lentigo: A defined separate entity. The Australasian Journal of Dermatology. 2016;57(3):229-234. doi:10.1111/ajd.12447. Journal
+
+Griffiths C, Barker J, Bleiker TO, et al. Rook’s Textbook of Dermatology. John Wiley & Sons; 2024.
+
+Hara Y, Shibata T. Characteristics of dermal vascularity in melasma and solar lentigo. Photodermatology, Photoimmunology & Photomedicine. 2024;40(2):e12953. doi:10.1111/phpp.12953. Journal
+
+Hordinsky MK, Soutor C. Clinical Dermatology : Diagnosis and Management of Common Disorders. McGraw-Hill; 2022.
+
+Mukovozov I, Roesler J, Kashetsky N, et al. Treatment of Lentigines: A Systematic Review. Dermatologic Surgery. 2023; 49 (1): 17-24. doi: 10.1097/DSS.0000000000003630. PubMed
+
+Praetorius C, Sturm RA, Steingrimsson E. Sun-induced freckling: ephelides and solar lentigines. Pigment Cell & Melanoma Research. 2014;27(3):339-350. doi:10.1111/pcmr.12232. Journal
+
+Atypical solar lentigo | Solar lentigo images
+
+Common benign skin lesions | Brown spots and freckles | Ephelis (freckle) | Lentigo | Lentigo pathology | Lentigo simplex
+
+Ultraviolet radiation | Photochemotherapy (PUVA) | Sunbeds
+
+Age spots (solar lentigo. Liver spots) — Harvard Health

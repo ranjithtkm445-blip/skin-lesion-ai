@@ -1,0 +1,337 @@
+# Melanocytic Nevi (nv)
+Source: DermNet NZ (dermnetnz.org)
+
+
+## Source: https://dermnetnz.org/topics/melanocytic-naevus
+
+Author: Dr Amanda Oakley, Dermatologist, Hamilton New Zealand, in 1997. Updated in January 2016.
+
+Credit: Many images have been supplied by MoleMap NZ.
+
+Introduction Demographics Causes Clinical features Classification Complications Diagnosis Treatment Prevention Outlook
+
+A melanocytic naevus (American spelling ‘nevus’), or mole, is a common benign skin lesion due to a local proliferation of pigment cells (melanocytes). It is sometimes called a naevocytic naevus or just 'naevus' (but note that there are other types of naevi ). A brown or black melanocytic naevus contains the pigment melanin , so may also be called a pigmented naevus.
+
+A melanocytic naevus can be present at birth (a congenital melanocytic naevus ) or appear later (an acquired naevus). There are various kinds of congenital and acquired melanocytic naevi (American spelling 'nevi').
+
+Almost everyone has at least one melanocytic naevus.
+
+About 1% of individuals are born with one or more congenital melanocytic naevi. This is usually sporadic, with rare instances of familial congenital naevi.
+
+Fair-skinned people tend to have more melanocytic naevi than darker skinned people.
+
+Melanocytic naevi that appear during childhood (aged 2 to 10 years) tend to be the most prominent and persistent throughout life.
+
+Melanocytic naevi that are acquired later in childhood or adult life often follow sun exposure and may fade away or involute later.
+
+Most white-skinned New Zealanders have 20–50 melanocytic naevi.
+
+Although the exact reason for the local proliferation of naevus cells is unknown, it is clear that the number of melanocytic naevi a person has depends on genetic factors, on sun exposure, and on immune status.
+
+People with many melanocytic naevi tend to have family members that also have many similar lesions.
+
+Somatic mutations in RAS genes are associated with congenital melanocytic naevi .
+
+New melanocytic naevi may erupt following the use of BRAF inhibitor drugs ( vemurafenib , dabrafenib ).
+
+People living in Australia and New Zealand have many more naevi than their relatives residing in Northern Europe.
+
+Immunosuppressive treatment leads to an increase in the numbers of naevi.
+
+What are the clinical features of melanocytic naevi?
+
+Melanocytic naevi vary widely in clinical, dermatoscopic and histological appearance.
+
+They differ in appearance depending on the body site.
+
+They vary in colour from pink or flesh tones to dark brown, steel blue, or black.
+
+Light-skinned individuals tend to have light-coloured naevi and dark-skinned individuals tend to have dark brown or black naevi.
+
+Although mostly round or oval in shape, moles are sometimes unusual shapes.
+
+They range in size from a couple of millimetres to several centimetres in diameter.
+
+Congenital melanocytic naevi are classified according to their actual or predicted adult size in maximum dimension and on specific characteristics.
+
+Small congenital naevus is  1.5 cm diameter.
+
+Small congenital naevus is  1.5 cm diameter.
+
+Medium congenital naevi are 1.5–19.9 cm diameter.
+
+Medium congenital naevi are 1.5–19.9 cm diameter.
+
+A large or giant congenital melanocytic naevus is ≥ 20 cm
+
+A large or giant congenital melanocytic naevus is ≥ 20 cm
+
+Hairy congenital naevi grow thick long hairs.
+
+Hairy congenital naevi grow thick long hairs.
+
+Café au lait macule is a flat brown patch.
+
+Café au lait macule is a flat brown patch.
+
+Speckled lentiginous naevus is a flat brown patch with darker spots.
+
+Speckled lentiginous naevus is a flat brown patch with darker spots.
+
+Naevus of Ota is a bluish brown mark around forehead, eye and cheek.
+
+Naevus of Ota is a bluish brown mark around forehead, eye and cheek.
+
+Mongolian spot is a large bluish mark most often seen on buttocks of a newborn.
+
+Mongolian spot is a large bluish mark most often seen on buttocks of a newborn.
+
+The pathological classification of melanocytic naevi relates to where naevus cells are found in the skin.
+
+A junctional naevus has groups or nests of naevus cells at the junction of the epidermis and the dermis. A flat mole.
+
+A junctional naevus has groups or nests of naevus cells at the junction of the epidermis and the dermis. A flat mole.
+
+A dermal or intradermal naevus has naevus cell nests in the dermis. A papule , plaque or nodule with a pedunculated , papillomatous (Unna naevus) or smooth surface (Miescher naevus).
+
+A dermal or intradermal naevus has naevus cell nests in the dermis. A papule , plaque or nodule with a pedunculated , papillomatous (Unna naevus) or smooth surface (Miescher naevus).
+
+A compound naevus has nests of naevus cells at the epidermal -dermal junction as well as within the dermis. A central raised area surrounded by a flat patch.
+
+A compound naevus has nests of naevus cells at the epidermal -dermal junction as well as within the dermis. A central raised area surrounded by a flat patch.
+
+A combined naevus has two distinct types of mole within the same lesion – usually blue naevus and compound naevus.
+
+A combined naevus has two distinct types of mole within the same lesion – usually blue naevus and compound naevus.
+
+Dermatoscopy has given rise to a new classification based on the pigment patterns of melanocytic naevi. Examples include:
+
+Reticular naevus reveals a lattice of intersecting brown lines.
+
+Reticular naevus reveals a lattice of intersecting brown lines.
+
+Globular naevus characteristically shows aggregated brown oval structures.
+
+Globular naevus characteristically shows aggregated brown oval structures.
+
+The blue naevus is a uniform structureless lesion, steel blue in colour.
+
+The blue naevus is a uniform structureless lesion, steel blue in colour.
+
+Starburst naevus reveals radial lines around the periphery of the lesion.
+
+Starburst naevus reveals radial lines around the periphery of the lesion.
+
+Facial naevi reveal pseudonetwork around hair follicles
+
+Facial naevi reveal pseudonetwork around hair follicles
+
+Acral naevi (these are on palms and soles) tend to be made up of parallel lines.
+
+Acral naevi (these are on palms and soles) tend to be made up of parallel lines.
+
+Naevi with special features include eczematised naevus (illustrated), irritated naevi and halo naevi .
+
+Naevi with special features include eczematised naevus (illustrated), irritated naevi and halo naevi .
+
+The unclassifiable naevus doesn't have any of the other patterns.
+
+The unclassifiable naevus doesn't have any of the other patterns.
+
+Ordinary moles that appear after birth may be referred to as acquired naevi. Acquired melanocytic naevi are given a variety of names and there is considerable overlap of descriptions.
+
+Signature naevi are the predominant group of naevi in an individual with multiple moles.
+
+Solid brown naevi have uniform brown pigmentation.
+
+Solid brown naevi have uniform brown pigmentation.
+
+Solid pink naevi are seen in fair-skinned individuals and lack melanin pigmentation.
+
+Solid pink naevi are seen in fair-skinned individuals and lack melanin pigmentation.
+
+Eclipse naevus has a ring, or segment of a ring, of darker pigment around a tan or pink centre. Often found in the scalp.
+
+Eclipse naevus has a ring, or segment of a ring, of darker pigment around a tan or pink centre. Often found in the scalp.
+
+Cockade, or naevus en cocarde/cockade, has a central dark naevus surrounded by concentric circles of light and dark pigmentation like a rosette.
+
+Cockade, or naevus en cocarde/cockade, has a central dark naevus surrounded by concentric circles of light and dark pigmentation like a rosette.
+
+Naevus with perifollicular hypopigmentation
+
+Naevi with perifollicular hypopigmentation have white spots around each hair. Easier to see by dermoscopy.
+
+Naevi with perifollicular hypopigmentation have white spots around each hair. Easier to see by dermoscopy.
+
+Fried-egg naevus is a compound naevus with a flat rim of pigment around a bumpy central portion – the bump can be lighter or darker than the pigmented rim.
+
+Fried-egg naevus is a compound naevus with a flat rim of pigment around a bumpy central portion – the bump can be lighter or darker than the pigmented rim.
+
+Lentiginous naevi are small, dark brown or black, flat lesions, often with a slightly paler rim – people with multiple lentiginous naevi have been said to have cheetah phenotype.
+
+Lentiginous naevi are small, dark brown or black, flat lesions, often with a slightly paler rim – people with multiple lentiginous naevi have been said to have cheetah phenotype.
+
+The Bolognia sign refers to a harmless, small area of darker colour on one side of the naevus.
+
+The Bolognia sign refers to a harmless, small area of darker colour on one side of the naevus.
+
+Uncommon types of melanocytic naevi include:
+
+Spitz naevus or epithelioid cell naevus: a pink (classic Spitz) or brown (pigmented Spitz) dome-shaped mole that arises in children and young adults.
+
+Reed naevus: darkly pigmented type of Spitz naevus with starburst dermatoscopic pattern
+
+Agminated naevi: a cluster of similar moles
+
+Kissing naevus: adjacent melanocytic naevi on upper and lower eyelids, due to naevus formation prior to separation of eyelids in utero.
+
+The term atypical naevus may be used in several ways.
+
+A benign lesion that has some clinical or histopathological characteristics of melanoma
+
+A melanocytic naevus with specific characteristics: large (> 5 mm); ill-defined or irregular borders; varying shades of colour; with flat and bumpy components.
+
+Or, any funny-looking naevus; large, or different from the patient’s other naevi.
+
+Atypical naevi usually occur in fair-skinned individuals and are due to sun exposure. They may be solitary or numerous. Pathology is reported as dysplastic junctional or compound naevus and has specific histological features (the Clark naevus).
+
+A common naevus is a flat mole with a single uniform colour.
+
+A common naevus is a flat mole with a single uniform colour.
+
+In dark skin, naevi are often black in colour.
+
+In dark skin, naevi are often black in colour.
+
+People with multiple atypical naevi are at increased risk of melanoma (cancerous mole).
+
+People with multiple atypical naevi are at increased risk of melanoma (cancerous mole).
+
+Dysplastic naevus describes an atypical mole that has specific histological criteria.
+
+Dysplastic naevus describes an atypical mole that has specific histological criteria.
+
+Blue naevus is a deeply pigmented type of dermal naevus.
+
+Blue naevus is a deeply pigmented type of dermal naevus.
+
+Cellular naevus is a non-pigmented dermal naevus.
+
+Cellular naevus is a non-pigmented dermal naevus.
+
+Miescher naevus is a dome-shaped smooth dermal naevus often found on the face.
+
+Miescher naevus is a dome-shaped smooth dermal naevus often found on the face.
+
+Unna naevus is a papillomatous dermal naevus that is in the shape of a raspberry.
+
+Unna naevus is a papillomatous dermal naevus that is in the shape of a raspberry.
+
+Meyerson naevus is a naevus affected by a halo of eczema/dermatitis .
+
+Meyerson naevus is a naevus affected by a halo of eczema/dermatitis .
+
+Halo naevus or Sutton naevus has a white halo around the mole. The mole gradually fades away over several years.
+
+Halo naevus or Sutton naevus has a white halo around the mole. The mole gradually fades away over several years.
+
+Spitz naevus or epithelioid cell naevus is a pink (classic Spitz) or brown (pigmented Spitz) dome-shaped mole that arises in children and young adults.
+
+Spitz naevus or epithelioid cell naevus is a pink (classic Spitz) or brown (pigmented Spitz) dome-shaped mole that arises in children and young adults.
+
+Reed or spindle cell naevus is a very dark-coloured mole with spindle-shaped dermal melanocytes , usually found on the limbs.
+
+Reed or spindle cell naevus is a very dark-coloured mole with spindle-shaped dermal melanocytes , usually found on the limbs.
+
+Recurrent naevus refers to the reappearance of pigment in a scar following surgical removal of a mole – this may have an odd shape.
+
+Recurrent naevus refers to the reappearance of pigment in a scar following surgical removal of a mole – this may have an odd shape.
+
+An agminated naevus is a cluster of similar moles or freckles.
+
+An agminated naevus is a cluster of similar moles or freckles.
+
+Acral naevus refers to one on the palm or sole.
+
+Acral naevus refers to one on the palm or sole.
+
+Nail unit naevus causes a uniform longitudinal band of pigment on a nail.
+
+Nail unit naevus causes a uniform longitudinal band of pigment on a nail.
+
+What are the complications of melanocytic naevi?
+
+People worry about their moles because they have heard about melanoma , a malignant proliferation of melanocytes that is the most common reason for death from skin cancer .
+
+At first, melanoma may look similar to a harmless melanocytic naevus , but in time it becomes more disordered in structure and tends to enlarge.
+
+People with a greater number of naevi have a higher risk of developing melanoma than those with few naevi, especially if they have over 100 of them.
+
+Melanocytic naevi sometimes change for other reasons than melanoma, for example following sun exposure or during pregnancy. They can enlarge, regress or involute (disappear).
+
+A Meyerson naevus is itchy and dry because it is surrounded by eczema.
+
+A Sutton or halo naevus is surrounded by a white patch and fades away over several years
+
+A recurrent naevus is one that appears in a scar following surgical removal of a melanocytic naevus — this may have an odd shape.
+
+Melanocytic naevi are usually diagnosed clinically by their typical appearance. If there is any doubt about the diagnosis, an expert may be consulted in person or with the help of clinical and dermatoscopic images. This is especially important if:
+
+A naevus changes size, shape, structure or colour
+
+A new naevus develops in adult life (> 40 years)
+
+It appears different from the person’s other naevi (a so-called ugly duckling)
+
+It has ABCD characteristics (Asymmetry, Border irregularity, Colour variation, Diameter > 6 mm)
+
+Most skin lesions with these characteristics are actually harmless when evaluated by an expert using dermatoscopy . Short-term digital dermatoscopic imaging may be used in equivocal flat lesions to check for change over time.
+
+Naevi that remain suspicious for melanoma are excised for histopathology (diagnostic biopsy ). A partial biopsy is not recommended, as it may miss an area of cancerous change.
+
+What is the treatment for melanocytic naevus ?
+
+Most melanocytic naevi are harmless and can be safely left alone. They may be removed in the following circumstances:
+
+If a naevus is a nuisance: perhaps irritated by clothing, comb or razor
+
+Excision biopsy of a flat or suspicious melanocytic naevus
+
+Shave biopsy of a protruding melanocytic naevus
+
+Laser to lessen pigment or remove coarse hair.
+
+The number of melanocytic naevi can be minimised by strict protection from the sun, starting from birth. Sunscreen alone is not sufficient to prevent new naevi from appearing.
+
+At any age, sun protection is important to reduce skin ageing and the risk of skin cancer .
+
+In New Zealand, the SunSmart Sun Protection Alert advises when protection is required.
+
+Cover up . Wear a hat, long sleeves and a long skirt or trousers. Choose fabrics designed for the sun (UPF 40+) when outdoors.
+
+Apply sunscreen to areas you can't cover. Choose broad-spectrum high protection (SPF 50+) sunscreens, applied frequently to exposed areas.
+
+What is the outlook for melanocytic naevi ?
+
+Most melanocytic naevi that appear in childhood remain forever. Teenagers and young adults tend to have the greatest number of naevi. There are fewer in later life because some of them slowly fade away.
+
+To increase the chance of spotting melanoma early, recommend:
+
+A patient noticing a significant change in a mole or a new lesion should show this to their doctor or dermatologist
+
+Regular skin examinations in patients with many naevi, atypical naevi , or who have had a previous skin cancer
+
+Total body photography and digital dermatoscopic imaging ( mole mapping ) for patients at high risk of melanoma, especially if they have many melanocytic naevi.
+
+Signature nevi. Suh KY, Bolognia JL. J Am Acad Dermatol. 2009 Mar;60(3):508–14. Review. Medline .
+
+Benign melanocytic lesions — common skin lesions course
+
+Nevus Outreach, Inc. : A non-profit organization dedicated to improving awareness and finding a cure for Congenital Nevi and Neurocutaneous Melanosis.
+
+Melanocytic Naevi (Moles) — British Association of Dermatologists
+
+Grain de beauté — Dr Ph Abimelec website (French)
+
+Moles and melanoma: Patient Handouts — The Society for Pediatric Dermatology

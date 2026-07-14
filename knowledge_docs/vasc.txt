@@ -1,0 +1,83 @@
+# Vascular Lesions (vasc)
+Source: DermNet NZ (dermnetnz.org)
+
+
+## Source: https://dermnetnz.org/topics/cherry-angioma
+
+Author: Dr Amanda Oakley, Dermatologist, Hamilton, New Zealand, December 2017. Revised September 2020.
+
+Introduction - angioma Introduction - cherry angioma Demographics Causes Clinical features Differential diagnoses Investigations Treatment
+
+Angioma or haemangioma (American spelling ‘hemangioma’) describes a benign vascular skin lesion. An angioma is due to proliferating endothelial cells; these are the cells that line the inside of a blood vessel.
+
+Angiomas can arise in early life ( infantile haemangioma ) or later in life; the most common type of angioma is a cherry angioma.
+
+A cherry angioma is a small papular angioma. It is a true capillary haemangioma. Cherry angioma has many synonyms, the most commonly used being Campbell de Morgan spots.
+
+Cherry angiomas markedly increase in number from about the age of 40, so it has been estimated that 75% of people over 75 years of age have them. Although they also called senile angiomas, they can occur in young people too - 5% of adolescents have been found to have them. Cherry angiomas are very common in males and females of any age or race, with no difference in sexes or races affected. They are however more noticeable in white skin than in skin of colour. There may be a family history of similar lesions. Eruptive cherry angiomas have been rarely reported to be associated with internal malignancy and pregnancy.
+
+The cause of cherry angiomas is unknown. Genetic analysis has found cherry angiomas frequently carry specific somatic missense mutations in the GNAQ and GNA11 (Q209H) genes , which are also involved in other vascular and melanocytic proliferations.
+
+What are the clinical features of cherry angioma?
+
+Cherry angioma is an asymptomatic firm red, blue, or purple papule , 0.1–1 cm in diameter. When thrombosed, it can appear black in colour until examined with a dermatoscope when the red or purple colour is more easily seen. Cherry angiomas are usually multiple. They are usually scattered over any part of the body surface, but are rarely found on the hands and feet or mucous membranes.
+
+What is the differential diagnosis for cherry angioma?
+
+Cherry angioma is usually easy to diagnose, but occasionally it may be confused with:
+
+Spider telangiectasis , also known as spider naevus , is sometimes (incorrectly) called a spider angioma but this is a vascular dilatation and not a proliferation of endothelial cells.
+
+What investigations should be done for cherry angioma?
+
+Cherry angioma is usually diagnosed clinically and investigation is not necessary for the majority of lesions. It has a characteristic red- clod or lobular pattern on dermoscopy (called lacunar pattern using conventional pattern analysis).
+
+When there is uncertainty about the diagnosis, a biopsy may be performed. The angioma is composed of venules in a thickened papillary dermis. Collagen bundles may be prominent between the lobules. See cherry angioma pathology .
+
+What is the treatment for cherry angioma?
+
+Cherry angiomas are harmless, so do not have to be treated. Occasionally, they are removed to exclude a malignant skin lesion such as nodular melanoma .
+
+Cherry angioma resembling nodular melanoma
+
+Cherry angioma resembling nodular melanoma
+
+If desired for cosmetic reasons, a cherry angioma can be simply removed by one of the following methods:
+
+Klebanov N, Lin WM, Artomov M, et al. Use of targeted next-generation sequencing to identify activating hot spot mutations in cherry angiomas. JAMA Dermatol. 2019;155(2):211-15. doi:10.1001/jamadermatol.2018.4231. Journal .
+
+Corazza M, Dika E, Maietti E, Musmeci D, Patrizi A, Borghi A. Eruptive cherry angiomas and skin melanoma: a fortuitous association?. Melanoma Res. 2019;29(3):313-17. doi:10.1097/CMR.0000000000000563. PubMed
+
+Valdebran M, Martin B, Kelly KM. State-of-the-art lasers and light treatments for vascular lesions: from red faces to vascular malformations. Semin Cutan Med Surg. 2017;36(4):207-12. doi:10.12788/j.sder.2017.044. PubMed
+
+Goldsmith PC. Dermatoses resulting from disorders of the veins and arteries. In:Griffiths C, Barker J, Bleiker T, Chalmers R, Creamer D (eds). Rook's Textbook of Dermatology [4 volumes], 9th edn, Wiley Blackwell, 2016: 103.12-13.
+
+Differential diagnosis of vascular lesions
+
+Infantile haemangioma: Definition and pathogenesis
+
+## Source: https://dermnetnz.org/topics/venous-lake
+
+Author: Dr Amanda Oakley, Dermatologist, Hamilton, New Zealand. Copy edited by Maria McGivern/Gus Mitchell. December 2017.
+
+Introduction Demographics Causes Clinical features Diagnosis Differential diagnoses Treatment
+
+A venous lake is a common bluish soft macule or papule due to vascular dilatation. It is most often seen on the lower lip.
+
+A venous lake is most often diagnosed in middle-aged or older men and women of any race.
+
+What are the clinical features of a venous lake?
+
+A venous lake is a soft, squashable, blue or purple macule or papule, that is 0.2–1 cm in diameter. Although they may arise anywhere, most venous lakes are diagnosed on the lower lip (on the vermilion margin or mucosal surface), on an earlobe, or elsewhere on the face, neck, or upper trunk.
+
+A venous lake is usually easy to diagnose clinically by its appearance. The colour disappears on compression of the macule or papule due to the clearance of blood from the dilated venule. This is most easily seen using a glass slide or the lens of a contact dermatoscope . A venous lake has a structureless blue or purple appearance on dermoscopy . A biopsy is rarely necessary and shows a dilated venule.
+
+What is the differential diagnosis for a venous lake?
+
+A venous lake may occasionally be confused with:
+
+A venous lake is harmless and does not require treatment. A lesion that is unsightly can be removed by destroying the lesion. This causes a temporary scab, and the procedure may result in a scar. Treatments to remove a venous lake include:
+
+Surgical excision is rarely necessary and inevitably leaves a scar.
+
+Vascular proliferations and abnormalities of blood vessels

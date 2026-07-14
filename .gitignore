@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+data/
+outputs/train_log.txt
+outputs/train_err.txt
+outputs/api_log.txt
+outputs/api_err.txt
+outputs/streamlit_log.txt
+outputs/streamlit_err.txt
+flutter_app/
+fetch_knowledge.py
