@@ -1,13 +1,12 @@
 ---
-title: Skin Lesion AI Classifier
+title: Skin Lesion API
 emoji: 🔬
 colorFrom: blue
-colorTo: teal
-sdk: streamlit
-sdk_version: 1.41.0
-app_file: streamlit_app.py
+colorTo: cyan
+sdk: gradio
+sdk_version: 4.44.0
+app_file: app.py
 pinned: false
-license: mit
 ---
 
 # 🔬 Skin Lesion AI Classifier

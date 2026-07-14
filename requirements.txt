@@ -16,3 +16,4 @@ requests==2.32.3
 tqdm==4.66.5
 huggingface_hub>=0.23.0
 sympy
+gradio>=4.0.0
