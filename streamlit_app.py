@@ -7,6 +7,10 @@ from dotenv import load_dotenv
 load_dotenv()
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
+# Download model + vectorstore from HF Hub if running on Streamlit Cloud
+from download_assets import download_assets
+download_assets()
+
 import streamlit as st
 from PIL import Image
 
@@ -56,17 +60,6 @@ with st.sidebar:
 st.markdown("<div class='main-header'>🔬 Skin Lesion AI Classifier</div>", unsafe_allow_html=True)
 st.markdown("<div class='sub-header'>AI-powered classification with Grad-CAM explainability and clinical LLM analysis</div>", unsafe_allow_html=True)
 
-# ── Sample images ──────────────────────────────────────────────────────────────
-SAMPLE_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "samples")
-
-@st.cache_data
-def get_sample_paths():
-    samples = {}
-    for cls in CLASS_LABELS.keys():
-        path = os.path.join(SAMPLE_DIR, f"{cls}.jpg")
-        if os.path.exists(path):
-            samples[cls] = path
-    return samples
 
 # ── Tabs ────────────────────────────────────────────────────────────────────────
 tab1, tab2, tab3 = st.tabs(["📤 Upload & Analyze", "🔥 Results & Heatmap", "💬 Ask AI"])
@@ -93,39 +86,6 @@ with tab1:
         st.markdown("### Upload Image")
         uploaded = st.file_uploader("Choose a skin lesion image", type=["jpg", "jpeg", "png"])
 
-        st.markdown("#### Or tap a sample image to analyze:")
-        samples = get_sample_paths()
-        cols = st.columns(len(samples))
-        selected_sample_path = None
-        for i, (cls, path) in enumerate(samples.items()):
-            with cols[i]:
-                st.image(Image.open(path).resize((90, 90)))
-                if st.button("Use", key=f"sample_{cls}", use_container_width=True):
-                    selected_sample_path = path
-
-        # Run analysis OUTSIDE columns so spinner appears inline, not at top
-        if selected_sample_path:
-            with open(selected_sample_path, "rb") as f:
-                sample_bytes = f.read()
-            st.session_state.image_bytes = sample_bytes
-            status = st.status("Analyzing sample image...", expanded=True)
-            with status:
-                st.write("Running EfficientNet-B3 prediction...")
-                result = predict_from_bytes(sample_bytes)
-                st.session_state.result = result
-                st.write(f"Predicted: **{result['class_name']}** ({result['confidence']*100:.1f}%)")
-                st.write("Generating Grad-CAM heatmap...")
-                pred_idx = CLASS_LABELS[result["predicted_class"]]
-                st.session_state.heatmap_b64 = explain_from_bytes(sample_bytes, pred_idx)
-                st.write("Getting clinical explanation from Groq LLM...")
-                st.session_state.explanation = explain_prediction(
-                    predicted_class=result["predicted_class"],
-                    confidence=result["confidence"],
-                    probabilities=result["probabilities"],
-                )
-                st.session_state.chat_history = []
-            status.update(label=f"Done! Predicted: {result['predicted_class']} ({result['confidence']*100:.1f}%)", state="complete")
-            st.rerun()
 
     with col2:
         st.markdown("### Preview")

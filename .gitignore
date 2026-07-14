@@ -1,4 +1,4 @@
-venv/
+﻿venv/
 __pycache__/
 *.pyc
 .env
@@ -11,3 +11,10 @@ outputs/streamlit_log.txt
 outputs/streamlit_err.txt
 flutter_app/
 fetch_knowledge.py
+models/
+vectorstore/faiss.index
+vectorstore/chunks.pkl
+static_deploy/
+gen_explanations.py
+gen_static_data.py
+samples/
