@@ -259,7 +259,7 @@
       item.dataset.cls = cls;
       item.innerHTML = `
         <img src="data:image/jpeg;base64,${d.img_b64}" alt="${cls}" loading="lazy" />
-        <div class="cls-tag">${cls}</div>`;
+        `;
       item.addEventListener('click', () => loadSample(cls, item));
       grid.appendChild(item);
     });
