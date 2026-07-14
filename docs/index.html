@@ -169,7 +169,7 @@
       <button class="btn" id="analyze-btn">🔍 Analyze Image</button>
     </div>
 
-    <p class="samples-label">Or try a preloaded sample — one per class</p>
+    <p class="samples-label">Or try a preloaded sample</p>
     <div class="samples-grid" id="samples-grid">
       <div class="sample-loading"><div class="spinner"></div></div>
     </div>
@@ -258,7 +258,7 @@
       item.className = 'sample-item';
       item.dataset.cls = cls;
       item.innerHTML = `
-        <img src="data:image/jpeg;base64,${d.img_b64}" alt="${cls}" loading="lazy" />
+        <img src="data:image/jpeg;base64,${d.img_b64}" alt="Sample image" loading="lazy" />
         `;
       item.addEventListener('click', () => loadSample(cls, item));
       grid.appendChild(item);
